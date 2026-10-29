@@ -159,8 +159,8 @@ A project designed to analyze resumes and compare candidate skills with job desc
 
 | Qualification | Institution | Status |
 |---|---|---|
-| MCA | MET Institute of Management, Nashik | Pursuing |
-| B.Sc. Computer Science | Completed undergraduate degree | Completed |
+| MCA | MET Institute of Management, Nashik | 📖 Pursuing |
+| B.Sc. Computer Science | University of Mumbai | ✅ Completed |
 
 ---
 
